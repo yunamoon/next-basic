@@ -1,19 +1,14 @@
 {
   "topics": [
     {
-      "id": 1,
-      "title": "html",
-      "body": "html is..."
+      "title": "crud test ...",
+      "body": "crud test!",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "css",
-      "body": "css is..."
-    },
-    {
-      "title": "post test",
-      "body": "test...",
-      "id": 3
+      "title": "test 2",
+      "body": "test 2",
+      "id": 2
     }
   ],
   "posts": [
